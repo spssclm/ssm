@@ -1,0 +1,46 @@
+[INFO] [2016-08-25 14:11:41][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'SpringMVC': initialization started
+[INFO] [2016-08-25 14:11:41][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'SpringMVC-servlet': startup date [Thu Aug 25 14:11:41 CST 2016]; root of context hierarchy
+[INFO] [2016-08-25 14:11:41][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mvc.xml]
+[INFO] [2016-08-25 14:11:41][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2016-08-25 14:11:41][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/user/test],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.cloudcross.anon.controller.UserController.test(javax.servlet.http.HttpServletRequest,org.springframework.ui.Model)
+[INFO] [2016-08-25 14:11:42][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/resources] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+[INFO] [2016-08-25 14:11:42][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'SpringMVC': initialization completed in 799 ms
+[INFO] [2016-08-25 14:14:41][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'SpringMVC': initialization started
+[INFO] [2016-08-25 14:14:41][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'SpringMVC-servlet': startup date [Thu Aug 25 14:14:41 CST 2016]; root of context hierarchy
+[INFO] [2016-08-25 14:14:41][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mvc.xml]
+[INFO] [2016-08-25 14:14:42][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2016-08-25 14:14:42][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/user/test],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.cloudcross.anon.controller.UserController.test(javax.servlet.http.HttpServletRequest,org.springframework.ui.Model)
+[INFO] [2016-08-25 14:14:42][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/resources] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+[INFO] [2016-08-25 14:14:42][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'SpringMVC': initialization completed in 787 ms
+[INFO] [2016-08-25 14:17:40][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'SpringMVC': initialization started
+[INFO] [2016-08-25 14:17:40][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'SpringMVC-servlet': startup date [Thu Aug 25 14:17:40 CST 2016]; root of context hierarchy
+[INFO] [2016-08-25 14:17:40][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mvc.xml]
+[INFO] [2016-08-25 14:17:40][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2016-08-25 14:17:40][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/user/test],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.cloudcross.anon.controller.UserController.test(javax.servlet.http.HttpServletRequest,org.springframework.ui.Model)
+[INFO] [2016-08-25 14:17:41][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/resources] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+[INFO] [2016-08-25 14:17:41][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'SpringMVC': initialization completed in 768 ms
+[WARN] [2016-08-25 14:18:39][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/favicon.ico] in DispatcherServlet with name 'SpringMVC'
+[INFO] [2016-08-25 14:20:08][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'SpringMVC': initialization started
+[INFO] [2016-08-25 14:20:08][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'SpringMVC-servlet': startup date [Thu Aug 25 14:20:08 CST 2016]; root of context hierarchy
+[INFO] [2016-08-25 14:20:08][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mvc.xml]
+[INFO] [2016-08-25 14:20:08][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2016-08-25 14:20:08][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/user/test],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.cloudcross.anon.controller.UserController.test(javax.servlet.http.HttpServletRequest,org.springframework.ui.Model)
+[INFO] [2016-08-25 14:20:08][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/resources] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+[INFO] [2016-08-25 14:20:08][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'SpringMVC': initialization completed in 806 ms
+[WARN] [2016-08-25 14:20:39][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/ssm/user/test] in DispatcherServlet with name 'SpringMVC'
+[WARN] [2016-08-25 14:21:16][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/ssm/] in DispatcherServlet with name 'SpringMVC'
+[WARN] [2016-08-25 14:21:19][org.springframework.web.servlet.PageNotFound]No mapping found for HTTP request with URI [/] in DispatcherServlet with name 'SpringMVC'
+[INFO] [2016-08-25 14:31:45][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'SpringMVC': initialization started
+[INFO] [2016-08-25 14:31:45][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'SpringMVC-servlet': startup date [Thu Aug 25 14:31:45 CST 2016]; root of context hierarchy
+[INFO] [2016-08-25 14:31:45][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mvc.xml]
+[INFO] [2016-08-25 14:31:45][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2016-08-25 14:31:45][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/user/test],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.cloudcross.anon.controller.UserController.test(javax.servlet.http.HttpServletRequest,org.springframework.ui.Model)
+[INFO] [2016-08-25 14:31:46][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/resources] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+[INFO] [2016-08-25 14:31:46][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'SpringMVC': initialization completed in 774 ms
+[INFO] [2016-08-25 14:36:27][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'SpringMVC': initialization started
+[INFO] [2016-08-25 14:36:27][org.springframework.web.context.support.XmlWebApplicationContext]Refreshing WebApplicationContext for namespace 'SpringMVC-servlet': startup date [Thu Aug 25 14:36:27 CST 2016]; root of context hierarchy
+[INFO] [2016-08-25 14:36:27][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mvc.xml]
+[INFO] [2016-08-25 14:36:27][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[INFO] [2016-08-25 14:36:27][org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]Mapped "{[/user/test],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.cloudcross.anon.controller.UserController.test(javax.servlet.http.HttpServletRequest,org.springframework.ui.Model)
+[INFO] [2016-08-25 14:36:28][org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]Mapped URL path [/resources] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+[INFO] [2016-08-25 14:36:28][org.springframework.web.servlet.DispatcherServlet]FrameworkServlet 'SpringMVC': initialization completed in 815 ms
